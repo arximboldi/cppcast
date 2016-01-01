@@ -23,6 +23,6 @@ Juanpe is a Spanish software engineer currently based in Berlin, Germany. Since 
 
  - [CppCon 2015: Juan Pedro Bolívar Puente “Transducers: from Clojure to C++"](https://www.youtube.com/watch?v=vohGJjGxtJQ)
  - [Atria on GitHub](https://github.com/Ableton/atria)
- - [psychosynth](http://www.psychosynth.com/index.php/Main_Page)
+ - [GNU Psychosynth](http://www.psychosynth.com/index.php/Main_Page)
  - [Embracing Conway's law](http://wingolog.org/archives/2015/11/09/embracing-conways-law)
  - [Victor Laskin's Blog: C++14 Transducers](http://vitiy.info/cpp14-how-to-implement-transducers/)
